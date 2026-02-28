@@ -9,7 +9,7 @@
 }
 
 body {
-    background: url("/Me1.jpg");
+    background: url("./Me1.jpg");
     background-size: cover;
     margin: 50px;
     display: flex;
